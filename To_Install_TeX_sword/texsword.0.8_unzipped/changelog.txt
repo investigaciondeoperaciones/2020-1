@@ -1,0 +1,73 @@
+Version 0.8 (released 20161201)
+
+1. Added a feature to set the temporary directory by hand. (Thanks to 
+Xianchao Tang for suggestion)
+
+==========================================================================
+
+Version 0.7 (released 20140112)
+
+1. Bug fix on Win64/VB7 platform
+
+===========================================================================
+
+Version 0.6 (released 20100528)
+
+1. Dependency on GhostScript is removed. Now equations are converted to
+bitmaps by dvipng. Also some png options are removed as they become useless.
+2. Keyboard shortcuts for "Run Latex" and "Close" are added
+3. Doubleclick handler for equations is added
+4. UpdateAll is made safer: now it saves your document and creates a reserve 
+copy of it before regenerating all the shapes
+
+============================================================================
+
+Version 0.5.1 (released 20080407)
+
+1. A bug with wdRefTypeBookmark corrected (Thanks to Giovanni Casolari)
+
+=============================================================================
+
+Version 0.5 (released 20080215)
+
+1. New "insert reference" dialog box
+2. Toolbar with "pictures" instead of text (more compact)
+
+==============================================================================
+
+Version 0.4 (released 20071220)
+
+1. New option: PNG type (PNG postsript device): pngmono or png256
+2. Update All function
+3. New option: font selection which overrides \usepackage[12pt]{..}
+4. Readme-file thoroughly updated.
+
+===============================================================================
+
+Version 0.3.1 (released 20071201)
+
+1. Options dialog is added. Before the options could be changed only in the
+   source code. Now this can be done in an interactive way.
+2. Shortcuts to the macros provided, such as Alt+E to insert an equation, etc.
+3. Save options for the future documents or only for the current one via the 
+   options dialog.
+4. Support for Custom Style File
+
+===============================================================================
+
+Version 0.3
+
+Development version.
+
+===============================================================================
+
+Version 0.2 (released 20070905)
+
+This is the first public release (version 0.2 released on 20070905) of TeXsword: 
+a system to manage and typeset equations in Microsoft Word.
+
+===============================================================================
+
+Version 0.1
+
+Development version.

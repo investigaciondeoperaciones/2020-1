@@ -1,0 +1,31 @@
+Lunes 21 de octubre de 2019
+Tema IV.A PROBLEMA DUAL Y SU RELACI\ 'ON CON EL PRIMAL
+Tema IV.B M\'ETODO SIMPLEX DUAL
+
+Viernes 25 de octubre de 2019
+Tema IV.B M\'ETODO SIMPLEX DUAL
+
+Lunes 28 de octubre de 2019
+Tema IV.B M\'ETODO SIMPLEX DUAL
+Tema IV.C AN\'ALISIS DE SENSIBILIDAD A UNA SOLUCI\ 'ON DADA
+
+Lunes 4 de noviembre de 2019
+Tema Unidad V METODOLOG'IA PARA PROBLEMAS CON REDES
+Tema V.A CONCEPTO DE REDES
+
+Viernes 8 de noviembre de 2019
+Tema V.B PROBLEMAS CON REDES
+Lunes 11 de noviembre de 2019
+Tema V.B PROBLEMAS CON REDES
+Tema V.C PROBLEMAS DE TRANSBORDO
+
+Viernes 15 de noviembre de 2019
+Tema V.C PROBLEMAS DE TRANSBORDO
+Tema V.D RESOLUCI\'ON DE PROBLEMAS DE TRANSPORTE
+
+Viernes 22 de noviembre de 2019
+Tema V.D RESOLUCI\ 'ON DE PROBLEMAS DE TRANSPORTE
+
+Lunes 25 de noviembre de 2019
+Segunda evaluaci\'on parcial
+

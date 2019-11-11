@@ -1,0 +1,25 @@
+Instalaci\'on de TeXsword
+En Windows 10:
+Directorio donde coloqu\'e la copia del archivo texsword.dotm
+
+C:\Users\LMC\AppData\Roaming\Microsoft\Word\STARTUP
+
+Es decir, encontr\'e la segunda opci\'on:
+
+C:\Users\<your_user_name>\AppData\Roaming\Microsoft\word\STARTUP
+
+
+Este es el directorio donde se colocan los archivos de inicio de 
+Microsoft word.
+
+Se puede averiguar cual es este directorio a trav\'es del menu 
+Archivo->Opciones
+
+Categor\'ia Avanzadas
+
+Dando clic en el bot\'on 
+
+Ubicaci\'on de archivos
+
+y encontrando el directorio de Startup.
+
